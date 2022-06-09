@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+application
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:9:5-47:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:27:5-31:19
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:27:5-31:19
+MERGED from [androidx.core:core:1.6.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/46289660946b62ff2a79ac85fc68a989/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/46289660946b62ff2a79ac85fc68a989/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:local_auth] /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/local_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/bc3cbb3c777c92a584a9be6344d44331/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/baf2ddb2096cd039deaf0629c01d5756/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/234adc718201e1df727317c34088cafd/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/a0cc1ada4a28889bc81ae8fc5a1cfdaf/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8ec8a12cebc0acbf3e85b67507a3953b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/3dc5092ea0d1f0c2bec7aecf8151305d/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/2cb90584d09c9cd89421eba78ebe9fea/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/69c439f4017011f781376ecc0774f488/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/b18137629a6c6231091e65c3059cd5d1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/345c5e62cd1878beef7431667f3c3527/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/90e4beac38b9f0492d0ba8b114c29c7a/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/406880045e3f42d6151bb8d48dbd5278/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/38df3f2a53858ed9e8361ec0ec45a913/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/72bd15179487cefad3af5efbeb75a70d/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/73ba7b89d9ecff9b5f51564b0944ea7c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8f14f1f7de8249fe24c8cd36fef55ab0/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/46289660946b62ff2a79ac85fc68a989/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/e155bccfeb0c811b70662ddaca599c09/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/2cf65bd8907cd7a298e119b6215a3281/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/44f0c341fedfea13f181021ff5fe9903/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8841cda7e6b292f0ea30512893027c10/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/3e0eb2984ee3de656f872a096f5ab476/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:2:5-51
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:3:5-73
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:25:5-74
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml:3:22-71
+uses-sdk
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+MERGED from [:local_auth] /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/local_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/local_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/bc3cbb3c777c92a584a9be6344d44331/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/bc3cbb3c777c92a584a9be6344d44331/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/baf2ddb2096cd039deaf0629c01d5756/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/baf2ddb2096cd039deaf0629c01d5756/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/234adc718201e1df727317c34088cafd/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/234adc718201e1df727317c34088cafd/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/a0cc1ada4a28889bc81ae8fc5a1cfdaf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/a0cc1ada4a28889bc81ae8fc5a1cfdaf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8ec8a12cebc0acbf3e85b67507a3953b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8ec8a12cebc0acbf3e85b67507a3953b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/3dc5092ea0d1f0c2bec7aecf8151305d/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/3dc5092ea0d1f0c2bec7aecf8151305d/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/2cb90584d09c9cd89421eba78ebe9fea/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/2cb90584d09c9cd89421eba78ebe9fea/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/69c439f4017011f781376ecc0774f488/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/69c439f4017011f781376ecc0774f488/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/b18137629a6c6231091e65c3059cd5d1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/b18137629a6c6231091e65c3059cd5d1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/345c5e62cd1878beef7431667f3c3527/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/345c5e62cd1878beef7431667f3c3527/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/90e4beac38b9f0492d0ba8b114c29c7a/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/90e4beac38b9f0492d0ba8b114c29c7a/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/406880045e3f42d6151bb8d48dbd5278/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/406880045e3f42d6151bb8d48dbd5278/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/38df3f2a53858ed9e8361ec0ec45a913/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/38df3f2a53858ed9e8361ec0ec45a913/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/72bd15179487cefad3af5efbeb75a70d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/72bd15179487cefad3af5efbeb75a70d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/73ba7b89d9ecff9b5f51564b0944ea7c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/73ba7b89d9ecff9b5f51564b0944ea7c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8f14f1f7de8249fe24c8cd36fef55ab0/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8f14f1f7de8249fe24c8cd36fef55ab0/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/46289660946b62ff2a79ac85fc68a989/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/46289660946b62ff2a79ac85fc68a989/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/e155bccfeb0c811b70662ddaca599c09/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/e155bccfeb0c811b70662ddaca599c09/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/2cf65bd8907cd7a298e119b6215a3281/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/2cf65bd8907cd7a298e119b6215a3281/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/44f0c341fedfea13f181021ff5fe9903/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/44f0c341fedfea13f181021ff5fe9903/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8841cda7e6b292f0ea30512893027c10/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/8841cda7e6b292f0ea30512893027c10/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/3e0eb2984ee3de656f872a096f5ab476/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/3e0eb2984ee3de656f872a096f5ab476/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/364497fc0450f522dfb5c32195a0088e/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:24:22-69
+activity#androidx.biometric.DeviceCredentialHandlerActivity
+ADDED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:28:9-30:67
+	android:theme
+		ADDED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:30:13-64
+	android:name
+		ADDED from [androidx.biometric:biometric:1.0.0-beta01] /home/kevinlara/.gradle/caches/transforms-2/files-2.1/1178707b222e3c970d3aa3d91b291b0f/biometric-1.0.0-beta01/AndroidManifest.xml:29:13-78

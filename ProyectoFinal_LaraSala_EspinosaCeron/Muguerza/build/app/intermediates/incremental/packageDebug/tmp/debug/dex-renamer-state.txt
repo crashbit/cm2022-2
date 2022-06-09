@@ -1,0 +1,4 @@
+#Wed Jun 08 18:59:00 CDT 2022
+base.0=/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

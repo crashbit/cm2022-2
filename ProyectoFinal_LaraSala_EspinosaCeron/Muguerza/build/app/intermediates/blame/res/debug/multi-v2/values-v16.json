@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/kevinlara/.gradle/caches/transforms-2/files-2.1/d7d8a07cf36cf1ddec5bacc7ce4ee93b/core-1.6.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/kevinlara/.gradle/caches/transforms-2/files-2.1/baf2ddb2096cd039deaf0629c01d5756/appcompat-1.1.0-rc01/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
