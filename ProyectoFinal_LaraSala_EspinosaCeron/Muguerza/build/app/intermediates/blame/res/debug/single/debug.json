@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/kevinlara/LinuxStorage1/Documents/Escuela/10°Semestre/ComputoMovil/Proyecto/cm2022-2/ProyectoFinal_LaraSala_EspinosaCeron/Muguerza/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
